@@ -1,0 +1,24 @@
+{
+  "gamesList": [
+    {"id": 1, "name": "Chess"},
+    {"id": 2, "name": "Monopoly"},
+    {"id": 3, "name": "Scrabble"},
+    {"id": 4, "name": "Clue"},
+    {"id": 5, "name": "Uno"},
+    {"id": 6, "name": "Checkers"},
+    {"id": 7, "name": "Risk"},
+    {"id": 8, "name": "Battleship"},
+    {"id": 9, "name": "Connect Four"},
+    {"id": 10, "name": "Jenga"},
+    {"id": 11, "name": "The Game of Life"},
+    {"id": 12, "name": "Candy Land"},
+    {"id": 13, "name": "Pictionary"},
+    {"id": 14, "name": "Trivial Pursuit"},
+    {"id": 15, "name": "Catan"},
+    {"id": 16, "name": "Ticket to Ride"},
+    {"id": 17, "name": "Exploding Kittens"},
+    {"id": 18, "name": "Pandemic"},
+    {"id": 19, "name": "Apples to Apples"},
+    {"id": 20, "name": "Mancala"}
+  ]
+}
