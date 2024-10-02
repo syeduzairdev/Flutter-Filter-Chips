@@ -1,7 +1,9 @@
 # Filter Chips
 
    
-Create an Filter Chips in Flutter.
+Flutter filter chips with nested chips handel using provider.
+
+
 ### ✌&ensp;Preview
 
 |              App Preview             |
