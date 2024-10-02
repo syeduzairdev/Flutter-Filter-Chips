@@ -80,7 +80,7 @@ class _HomePageState extends State<HomePage> {
               onPressed: () {
                 hobbiesViewModel!.submitSelectedData();
               },
-              child: Text("Press"))
+              child: const Text("Press"))
         ],
       ),
     );
